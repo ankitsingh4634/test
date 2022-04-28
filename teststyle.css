@@ -1,0 +1,52 @@
+.card{
+    border: 1px solid lightgray;
+    margin: 10px;
+    border-radius: 16px;
+    width: 900px;
+}
+
+
+.card img{
+    border-radius: 16px;
+    padding: 10px;
+}
+
+.flex{
+    display: flex;
+}
+
+.hp p{
+    font-weight: 600;
+    padding: 10px;
+    color: black;
+}
+
+.hp h1{
+    font-weight: 600;
+    padding: 10px;
+}
+.button{
+    color:  white;
+    border-radius: 10px;
+    border: hidden;
+    background-color: #FFB830;
+    padding: 2px;
+    font-size: larger;
+}
+.button1{
+    color:  white;
+    border-radius: 10px;
+    background-color:black;
+    padding: 5px;
+    font-size: larger;
+}
+
+
+.button2{
+    color:  black;
+    border-radius: 10px;
+   
+    background-color:white;
+    padding: 5px;
+    font-size: larger;
+}
